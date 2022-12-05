@@ -1,5 +1,90 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "8FcWW-fMt90",
+            "name": "Count Basie - Corner Pocket-8FcWW-fMt90.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Count Basie - Corner Pocket-8FcWW-fMt90.mp4",
+            "size": 10.384965,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Count Basie - Corner Pocket-8FcWW-fMt90.mp4?raw=true"
+        },
+        {
+            "id": "a-A9UUqsThE",
+            "name": "Patriotic Rally-a-A9UUqsThE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Patriotic Rally-a-A9UUqsThE.mp4",
+            "size": 3.4240519999999997,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Patriotic Rally-a-A9UUqsThE.mp4?raw=true"
+        },
+        {
+            "id": "_2TmAE710A0",
+            "name": "Wacky Dust-_2TmAE710A0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Wacky Dust-_2TmAE710A0.mp4",
+            "size": 2.276582,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Wacky Dust-_2TmAE710A0.mp4?raw=true"
+        },
+        {
+            "id": "XqT6ziO8DkM",
+            "name": "No. 12 - Presto-XqT6ziO8DkM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/No. 12 - Presto-XqT6ziO8DkM.mp4",
+            "size": 6.573695,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/No. 12 - Presto-XqT6ziO8DkM.mp4?raw=true"
+        },
+        {
+            "id": "5iGcUhV3rKw",
+            "name": "Just a Little Bit of Loving-5iGcUhV3rKw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Just a Little Bit of Loving-5iGcUhV3rKw.mp4",
+            "size": 4.239686,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Just a Little Bit of Loving-5iGcUhV3rKw.mp4?raw=true"
+        },
+        {
+            "id": "I-XeGnNZMiI",
+            "name": "1926, Henry Halstead Orch. Give Me Today, Ain't That Too Bad, Rosy Cheeks, Tear Drops, HD 78rpm-I-XeGnNZMiI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/1926, Henry Halstead Orch. Give Me Today, Ain't That Too Bad, Rosy Cheeks, Tear Drops, HD 78rpm-I-XeGnNZMiI.mp4",
+            "size": 34.225533999999996,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/1926, Henry Halstead Orch. Give Me Today, Ain't That Too Bad, Rosy Cheeks, Tear Drops, HD 78rpm-I-XeGnNZMiI.mp4?raw=true"
+        },
+        {
+            "id": "IwwIF43ILhU",
+            "name": "Orujo-IwwIF43ILhU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Orujo-IwwIF43ILhU.mp4",
+            "size": 11.702506,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Orujo-IwwIF43ILhU.mp4?raw=true"
+        },
+        {
+            "id": "JEnt8N80uWo",
+            "name": "Vice Versa Love-JEnt8N80uWo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Vice Versa Love-JEnt8N80uWo.mp4",
+            "size": 6.031985,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Vice Versa Love-JEnt8N80uWo.mp4?raw=true"
+        },
+        {
+            "id": "4onIZVcx1Gs",
+            "name": "Prison Oval Rock-4onIZVcx1Gs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Prison Oval Rock-4onIZVcx1Gs.mp4",
+            "size": 4.600973,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Prison Oval Rock-4onIZVcx1Gs.mp4?raw=true"
+        },
+        {
+            "id": "7YyHhqRI9QQ",
+            "name": "Keyboard Sonata No. 35 in A-Flat Major, Hob. XVI, 43 - I. Moderato-7YyHhqRI9QQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Keyboard Sonata No. 35 in A-Flat Major, Hob. XVI, 43 - I. Moderato-7YyHhqRI9QQ.mp4",
+            "size": 6.499823,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Keyboard Sonata No. 35 in A-Flat Major, Hob. XVI, 43 - I. Moderato-7YyHhqRI9QQ.mp4?raw=true"
+        },
+        {
+            "id": "Zz1Ui9bVJ9c",
+            "name": "Miseria y Traici\u00f3n-Zz1Ui9bVJ9c.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Miseria y Traici\u00f3n-Zz1Ui9bVJ9c.mp4",
+            "size": 5.583555,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Miseria y Traici\u00f3n-Zz1Ui9bVJ9c.mp4?raw=true"
+        },
+        {
+            "id": "GNtRI02sbwg",
+            "name": "Liszt - Ann\u00e9es de p\u00e8lerinage III, S. 163 - VI. Marche fun\u00e8bre (En m\u00e9moire de Maximilien I)-GNtRI02sbwg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/e3/videos/Liszt - Ann\u00e9es de p\u00e8lerinage III, S. 163 - VI. Marche fun\u00e8bre (En m\u00e9moire de Maximilien I)-GNtRI02sbwg.mp4",
+            "size": 5.293775999999999,
+            "url": "https://github.com/circuitalmynds/music_e3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage III, S. 163 - VI. Marche fun\u00e8bre (En m\u00e9moire de Maximilien I)-GNtRI02sbwg.mp4?raw=true"
+        }
+    ],
+    "total_size": 100.837132
 }
